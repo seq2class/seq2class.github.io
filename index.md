@@ -6,8 +6,8 @@
   * **Office hours:** 4-4:30pm after class, or by appointment.
 * **TA:** Matthew Francis-Landau
   * **Office hours:** TBA
-* **Discussion site:** [https://piazza.com/class/jd0fhovutom2kf](https://piazza.com/class/jd0fhovutom2kf)
 * **Email:** cs765-staff at cs.jhu.edu
+* **Discussion site:** [https://piazza.com/class/jd0fhovutom2kf](https://piazza.com/class/jd0fhovutom2kf)
 * **Class notes:**
   * [Formalisms and terminology](https://github.com/seq2class/scribe-notes/raw/master/formalisms.pdf)
   * [Scribe Notes](https://seq2class.github.io/scribe-notes/)
