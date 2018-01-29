@@ -12,6 +12,7 @@
   * [Formalisms and terminology](https://github.com/seq2class/scribe-notes/raw/master/formalisms.pdf)
   * [Scribe Notes](https://seq2class.github.io/scribe-notes/)
     * [LaTeX repo](https://github.com/seq2class/scribe-notes)
+    * [Sign up to Scribe](https://github.com/seq2class/scribe-notes/wiki/Scribe-notes-sign-up)
   * Readings (TBA)
 * **Video lectures:** [via Blackboard](https://blackboard.jhu.edu/webapps/ppto-PanoptoCourseTool-bb_bb60/Content.jsp?course_id=_155622_1&mode=cpview)
 
