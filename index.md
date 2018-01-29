@@ -9,7 +9,7 @@
 * **Discussion site:** [https://piazza.com/class/jd0fhovutom2kf](https://piazza.com/class/jd0fhovutom2kf)
 * **Email:** cs765-staff at cs.jhu.edu
 * **Class notes:**
-  * [Formalisms and terminology](https://github.com/seq2class/scribe-notes/blob/master/formalisms.pdf)
+  * [Formalisms and terminology](https://github.com/seq2class/scribe-notes/raw/master/formalisms.pdf)
   * [Scribe Notes](https://seq2class.github.io/scribe-notes/)
     * [LaTeX repo](https://github.com/seq2class/scribe-notes)
 * **Video recordings:** TBA
