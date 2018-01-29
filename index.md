@@ -11,8 +11,32 @@
 * **Video recordings:** TBA
 * **Email:** cs765-staff at cs.jhu.edu
 
-
-
+## Sequence labeling as a canonical problem
 This course surveys formal ingredients that are used to build structured models of character and word sequences. We will unpack recent deep learning architectures that consider various kinds of latent structure, and see how they draw on earlier work in structured prediction, dimensionality reduction, Bayesian nonparametrics, multi-task learning, etc. We will also examine a range of strategies used for inference and learning in these models. Students will be expected to read recent papers and carry out a research project. [Applications or Analysis]
 
 Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics or machine learning is recommended. Students may wish to prepare for their choice of research project by taking EN.601.382 Deep Learning Lab at the same time.
+
+
+## Topics list
+1. Philosophy
+2. Sequence labeling as a canonical problem
+3. Statistical background (emphasize that this part is more general than sequence modeling)
+4. Algorithmic background: Paths in graphs
+5. Basic non-neural sequence labeling models
+6. Moving up to very large alphabets and/or state spaces - approximation algorithms
+7. Feature / Architecture Engineering
+8. Neuralization
+9. Word embeddings (non-task-specific)
+10. Optimization methods
+11. Model selection
+12. Deep generative models
+13. Distributions over other kinds of discrete structures
+14. Transition systems for parsing
+15. Integration over hidden variables
+16. Reinforcement learning
+17. Continuous generalizations
+18. Exchangeability
+19. Types vs. tokens (hierarchical)
+20. Lambek calculus / CCG / automata / other models of grammaticality
+21. Spectral learning
+22. Structure learning
