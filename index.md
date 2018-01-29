@@ -42,3 +42,5 @@ Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics 
 20. Lambek calculus / CCG / automata / other models of grammaticality
 21. Spectral learning
 22. Structure learning
+
+## Requirements
