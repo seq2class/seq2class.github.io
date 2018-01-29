@@ -64,7 +64,7 @@ Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics 
 * Training objectives
   * Joint vs. conditional
   * Loss-infused training (train a policy) vs. loss-infused decoding (train a model)
-  * Value-based vs. policy-basd
+  * Value-based vs. policy-based
   * Forms of regularization
   * Smooth vs. non-smooth objectives
   * Convex vs. non-convex objectives
