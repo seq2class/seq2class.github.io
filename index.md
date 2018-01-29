@@ -1,4 +1,3 @@
-
 # 601.765 Machine Learning: Linguistic & Sequence Modeling
 
 * **Lectures:** 3-3:50pm MWF, in Hackerman 320.
@@ -14,7 +13,7 @@
   * [Scribe Notes](https://seq2class.github.io/scribe-notes/)
     * [LaTeX repo](https://github.com/seq2class/scribe-notes)
   * Readings (TBA)
-* **Video recordings:** TBA
+* **Video lectures:** [via Blackboard](https://blackboard.jhu.edu/webapps/ppto-PanoptoCourseTool-bb_bb60/Content.jsp?course_id=_155622_1&mode=cpview)
 
 ## Course description
 
@@ -28,42 +27,78 @@ Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics 
 * Homeworks
 * Final project
 * Tests (midterm and final?)
-
 * Class participation
 * Reading papers
 
 ## Topic list
 
-1. Introduction
-2. Sequence labeling as a canonical problem
-3. Notation and statistical background
-4. Algorithmic background: Paths in graphs
-5. Classical sequence labeling models
-6. Beyond dynamic programming: Approximation algorithms
-7. Feature / architecture engineering
-8. Neuralization
-9. Word embeddings
-10. Optimization methods
-11. Model selection
-12. Deep generative models
-13. Beyond sequences: Distributions over other discrete structures
-14. Transition systems for parsing
-15. Integration over hidden variables
-16. Reinforcement learning
-17. Continuous generalizations
-18. Exchangeability
-19. Hierarchical modeling and types vs. tokens
-20. Other possible topics:
-    * Lambek calculus / CCG / automata / other models of grammaticality
-    * Spectral learning
-    * Structure learning
+### Setting the stage
 
-# Recurring themes
+<ol start="1">
+<li>Overview</li>
+<li>Sequence labeling as a canonical problem</li>
+</ol>
+
+### Classical methods
+
+<ol start="3">
+<li> Notation and statistical background</li>
+<li>Algorithmic background: Paths in graphs</li>
+<li>Classical sequence labeling models</li>
+</ol>
+
+### Richer scoring functions
+
+<ol start="6">
+<li>Beyond dynamic programming: Approximation algorithms</li>
+<li>Feature / architecture engineering</li>
+<li>Neuralization</li>
+<li>Word embeddings</li>
+<li>Optimization methods</li>
+<li>Model selection</li>
+<li>Deep generative models</li>
+</ol>
+
+### Beyond sequence labeling
+
+<ol start="13">
+<li>Distributions over other discrete structures</li>
+<li>Transition systems for parsing</li>
+<li>Integration over hidden variables</li>
+<li>Reinforcement learning</li>
+<li>Continuous generalizations</li>
+<ul>
+<li>Kalman filters</li>
+<li>Poisson and Hawkes processes</li>
+<li>Gaussian processes</li>
+</ul>
+<li>Exchangeability</li>
+<ul>
+<li>Dirichlet processes</li>
+</ul>
+<li>Hierarchical modeling</li>
+<ul>
+<li>Types vs. tokens</li>
+<li>Infinite Gaussian mixture model</li>
+<li>Hierarchical Pitman-Yor language model</li>
+<li>Infinite HMM</li>
+</ul>
+</ol>
+
+### Other possible topics (time permitting)
+
+<ol start="20">
+<li>Lambek calculus / CCG / automata / other models of grammaticality</li>
+<li>Spectral learning</li>
+<li>Structure learning</li>
+</ol>
+
+## Recurring themes
 
 * Training objectives
   * Joint vs. conditional
   * Loss-infused training (train a policy) vs. loss-infused decoding (train a model)
-  * Value-based vs. policy-basd
+  * Value-based vs. policy-based
   * Forms of regularization
   * Smooth vs. non-smooth objectives
   * Convex vs. non-convex objectives
