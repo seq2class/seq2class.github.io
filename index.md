@@ -1,3 +1,4 @@
+
 # 601.765 Machine Learning: Linguistic & Sequence Modeling
 
 * **Lectures:** 3-3:50pm MWF, in Hackerman 320.
@@ -12,6 +13,7 @@
   * [Formalisms and terminology](https://github.com/seq2class/scribe-notes/raw/master/formalisms.pdf)
   * [Scribe Notes](https://seq2class.github.io/scribe-notes/)
     * [LaTeX repo](https://github.com/seq2class/scribe-notes)
+  * Readings (TBA)
 * **Video recordings:** TBA
 
 ## Course description
@@ -22,11 +24,13 @@ Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics 
 
 ## Requirements (details TBA soon)
 
-* Class participation
 * Scribing
 * Homeworks
 * Final project
 * Tests (midterm and final?)
+
+* Class participation
+* Reading papers
 
 ## Topic list
 
@@ -53,3 +57,30 @@ Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics 
     * Lambek calculus / CCG / automata / other models of grammaticality
     * Spectral learning
     * Structure learning
+
+# Recurring themes
+
+* Training objectives
+  * Joint vs. conditional
+  * Loss-infused training (train a policy) vs. loss-infused decoding (train a model)
+  * Value-based vs. policy-basd
+  * Forms of regularization
+  * Smooth vs. non-smooth objectives
+  * Convex vs. non-convex objectives
+* Inference objectives
+  * Maximization vs. summation; annealing
+	* Search and sampling
+	* Dual decomposition (for maximization)
+    * Variational approximation (for summation)
+* Modeling schemes
+  * Global vs. local - and how local?
+  * Graph-based vs. transition-based (= subgraph features vs. history-based features)
+  * Domain knowledge vs. generic architectures
+* Decomposability
+  * Dynamic programming vs. approximations
+  * Lookahead vs. heuristics
+* Types vs. tokens
+  * Embeddings
+  * Weighting the training data
+  * External resources
+* Computational tricks of the trade and implementation know-how
