@@ -46,6 +46,7 @@ Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics 
 <li> Notation and statistical background</li>
 <li>Algorithmic background: Paths in graphs</li>
 <li>Classical sequence labeling models</li>
+<li>Graphical models and belief propagation</li>
 </ol>
 
 ### Richer scoring functions
@@ -55,8 +56,8 @@ Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics 
 <li>Feature / architecture engineering</li>
 <li>Neuralization</li>
 <li>Word embeddings</li>
-<li>Optimization methods</li>
-<li>Model selection</li>
+<li>Backprop and optimization methods</li>
+<li>Hyperparameter tuning (model selection)</li>
 <li>Deep generative models</li>
 </ol>
 
@@ -96,6 +97,12 @@ Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics 
 
 ## Recurring themes
 
+In some sense, the point of the course is to explicitly show you the
+collection of design choices that you face when building probabilistic
+reasoning systems.  Your choices will affect how well your models
+fit the theory and the data, the computational complexity of inference
+and training, and the difficulty of implementation.
+
 * Training objectives
   * Joint vs. conditional
   * Loss-infused training (train a policy) vs. loss-infused decoding (train a model)
@@ -116,7 +123,6 @@ Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics 
   * Dynamic programming vs. approximations
   * Lookahead vs. heuristics
 * Types vs. tokens
-  * Embeddings
+  * Model structure
   * Weighting the training data
-  * External resources
 * Computational tricks of the trade and implementation know-how
