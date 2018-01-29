@@ -32,23 +32,24 @@ Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics 
 
 1. Introduction
 2. Sequence labeling as a canonical problem
-3. Statistical background (emphasize that this part is more general than sequence modeling)
+3. Notation and statistical background
 4. Algorithmic background: Paths in graphs
-5. Basic non-neural sequence labeling models
-6. Moving up to very large alphabets and/or state spaces - approximation algorithms
-7. Feature / Architecture Engineering
+5. Classical sequence labeling models
+6. Beyond dynamic programming: Approximation algorithms
+7. Feature / architecture engineering
 8. Neuralization
-9. Word embeddings (non-task-specific)
+9. Word embeddings
 10. Optimization methods
 11. Model selection
 12. Deep generative models
-13. Distributions over other kinds of discrete structures
+13. Beyond sequences: Distributions over other discrete structures
 14. Transition systems for parsing
 15. Integration over hidden variables
 16. Reinforcement learning
 17. Continuous generalizations
 18. Exchangeability
-19. Types vs. tokens (hierarchical)
-20. Lambek calculus / CCG / automata / other models of grammaticality
-21. Spectral learning
-22. Structure learning
+19. Hierarchical modeling and types vs. tokens
+20. Other possible topics:
+    * Lambek calculus / CCG / automata / other models of grammaticality
+    * Spectral learning
+    * Structure learning
