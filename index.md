@@ -99,9 +99,9 @@ Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics 
 
 In some sense, the point of the course is to explicitly show you the
 collection of design choices that you face when building probabilistic
-reasoning systems.  Your choices will affect how well your models
-fit the theory and the data, the computational complexity of inference
-and training, and the difficulty of implementation.
+reasoning systems.  Your choices will affect (1) how well your models
+fit the theory and the data, (2) the computational complexity of inference
+and training, and (3) the difficulty of implementing the system.
 
 * Training objectives
   * Joint vs. conditional
