@@ -116,12 +116,10 @@ and training, and (3) the difficulty of implementing the system.
 	* Dual decomposition (for maximization)
     * Variational approximation (for summation)
 * Modeling schemes
-  * Global vs. local - and how local?
+  * Global vs. local - and how local?  (= lookahead vs. heuristics)
   * Graph-based vs. transition-based (= subgraph features vs. history-based features)
+  * Tractable vs. faithful models
   * Domain knowledge vs. generic architectures
-* Decomposability
-  * Dynamic programming vs. approximations
-  * Lookahead vs. heuristics
 * Types vs. tokens
   * Model structure
   * Weighting the training data
