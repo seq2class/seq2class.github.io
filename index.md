@@ -106,7 +106,6 @@ and training, and (3) the difficulty of implementing the system.
 * Training objectives
   * Joint vs. conditional
   * Loss-infused training (train a policy) vs. loss-infused decoding (train a model)
-  * Value-based vs. policy-based
   * Forms of regularization
   * Smooth vs. non-smooth objectives
   * Convex vs. non-convex objectives
