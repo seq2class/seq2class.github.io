@@ -5,7 +5,7 @@
 * **Instructors:** Jason Eisner, Ryan Cotterell
   * **Office hours:** 4-4:30pm after class, or by appointment.
 * **TA:** Matthew Francis-Landau
-  * **Office hours:** TBA
+  * **Office hours:** 5:30-6:30pm Monday, Hackerman 306 (Will be on seats outside 321 on 2/5)
 * **Email:** cs765-staff at cs.jhu.edu
 * **Discussion site:** [https://piazza.com/class/jd0fhovutom2kf](https://piazza.com/class/jd0fhovutom2kf)
 * **Class notes:**
