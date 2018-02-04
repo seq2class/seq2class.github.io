@@ -109,6 +109,7 @@ and training, and (3) the difficulty of implementing the system.
   * Forms of regularization
   * Smooth vs. non-smooth objectives
   * Convex vs. non-convex objectives
+  * End-to-end vs. pipelined training
 * Inference objectives
   * Maximization vs. summation; annealing
 	* Search and sampling
