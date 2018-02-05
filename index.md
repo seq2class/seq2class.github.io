@@ -1,6 +1,6 @@
 # 601.765 Machine Learning: Linguistic & Sequence Modeling
 
-* **Lectures:** 3-3:50pm MWF, in Hackerman 320.
+* **Lectures:** 3-4pm MWF, in Hackerman 320.
   * Sometimes we may have to do 3-4:15 but this will be announced in advance.
 * **Instructors:** Jason Eisner, Ryan Cotterell
   * **Office hours:** 4-4:30pm after class, or by appointment.
