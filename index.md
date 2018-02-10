@@ -5,8 +5,7 @@
 * **Instructors:** Jason Eisner, Ryan Cotterell
   * **Office hours:** 4-4:30pm after class, or by appointment.
 * **TA:** Matthew Francis-Landau
-  * **Office hours:** 5:30-6:30pm Monday, Hackerman 306 (Will be on seats outside 321 on 2/5)
-  * (Email cs765-staff if looking for the office hour location)
+  * **Office hours:** 5:30-6:30pm Monday, Hackerman 306
 * **Email:** cs765-staff at cs.jhu.edu
 * **Discussion site:** [https://piazza.com/class/jd0fhovutom2kf](https://piazza.com/class/jd0fhovutom2kf)
 * **Class notes:**
@@ -16,6 +15,9 @@
     * [Sign up to Scribe](https://github.com/seq2class/scribe-notes/wiki/Scribe-notes-sign-up)
   * Readings (TBA)
 * **Video lectures:** [via Blackboard](https://blackboard.jhu.edu/webapps/ppto-PanoptoCourseTool-bb_bb60/Content.jsp?course_id=_155622_1&mode=cpview)
+
+## Announcements
+* Homework 1 has been posted [here](https://piazza.com/class/jd0fhovutom2kf?cid=14).  Due 2/19 at 2:00 PM
 
 ## Course description
 
