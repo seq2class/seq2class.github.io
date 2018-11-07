@@ -16,6 +16,13 @@
   * Readings (TBA)
 * **Video lectures:** [via Blackboard](https://blackboard.jhu.edu/webapps/ppto-PanoptoCourseTool-bb_bb60/Content.jsp?course_id=_155622_1&mode=cpview)
 
+## Homework
+For reference, the homework assignments from Spring 2018 are available here:
+
+* [Homework 1](https://github.com/seq2class/assignment1): Slow general algorithms for sequence labeling
+* [Homework 2](https://github.com/seq2class/assignment2): Efficient Finite-State Methods
+* [Homework 3](https://github.com/seq2class/assignment3): Neural models
+
 ## Announcements
 * Homework 1 has been posted [here](https://piazza.com/class/jd0fhovutom2kf?cid=14).  Due 2/19 at 2:00 PM
 
