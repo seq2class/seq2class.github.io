@@ -18,7 +18,7 @@
 * **TA:** Sebastian Mielke
   * **Office hours:** TBA
 * **Email:** cs765-staff at cs.jhu.edu
-* **Discussion site:** [https://piazza.com/jhu/spring2019/601765/]
+* **Discussion site:** [https://piazza.com/jhu/spring2019/601765/](https://piazza.com/jhu/spring2019/601765/)
 * **Class notes:**
   * [Formalisms and terminology](https://github.com/seq2class/scribe-notes/raw/master/formalisms.pdf)
   * [Scribe Notes](https://seq2class.github.io/scribe-notes/)
@@ -46,8 +46,7 @@ _Catalog description_: This course surveys formal ingredients that are used to b
 _Prerequisites:_ EN.600/601.465/665 or permission. Prior coursework in statistics or machine learning is recommended. Students may wish to prepare for their choice of research project by taking EN.601.382 Deep Learning Lab at the same time.
 
 _Remarks:_
-* The focus of the class is on understanding the space of *good options* for designing probabilistic sequence models and computing with them.
-* We will discuss the *qualitative* advantages and disadvantages of different options.  Our goal is not to teach you exactly how today's top-ranked system works, but rather to give you a toolbox for understanding and creating system designs.
+* The focus of the class is on understanding the space of *good options* for designing probabilistic sequence models and computing with them.* We will discuss the *qualitative* advantages and disadvantages of different options.  Our goal is not to teach you exactly how today's top-ranked system works, but rather to give you a toolbox for understanding and creating system designs.
 * This class builds on the dynamic programming algorithms and log-linear models covered in [NLP](http://cs.jhu.edu/~jason/465).  We will primarily extend to various neural ("log-nonlinear") models, some of which allow dynamic programming.
 * As this is a graduate class, the lecture style will be a bit more improvisational than in [NLP](http://cs.jhu.edu/~jason/465). The class is also still under development. We will probably only cover a subset of the topics on the syllabus.
 
