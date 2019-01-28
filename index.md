@@ -2,6 +2,15 @@
 
 **Spring 2019**
 
+## Announcements
+
+* The first day of class is Monday, Jan 28.  See you there!
+* Please fill out the [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSelKHO6-6c2funbIIFSnZ8WGzZ_9IT5DeRK_XQEumqwWUYvow/viewform).
+
+<!-- * Homework 1 has been posted [here](https://piazza.com/class/jd0fhovutom2kf?cid=14).  Due 2/19 at 2:00 PM -->
+
+## Administration
+
 * **Lectures:** 3-4pm MWF, in Hackerman 320.
   * Sometimes we may have to do 3-4:15 but this will be announced in advance.
 * **Instructor:** Jason Eisner
@@ -18,20 +27,39 @@
   * Readings (TBA)
 * **Video lectures:** [via Blackboard](https://blackboard.jhu.edu/webapps/ppto-PanoptoCourseTool-bb_bb60/Content.jsp?course_id=_155622_1&mode=cpview)
 
-## Course description
+## Homework
 
-This course surveys formal ingredients that are used to build structured models of character and word sequences. We will unpack recent deep learning architectures that consider various kinds of latent structure, and see how they draw on earlier work in structured prediction, dimensionality reduction, Bayesian nonparametrics, multi-task learning, etc. We will also examine a range of strategies used for inference and learning in these models. Students will be expected to read recent papers and carry out a research project. [Applications or Analysis]
+Homeworks will be posted here.  We will probably have 4 homeworks (plus a term project).
 
-Prerequisites: EN.600/601.465/665 or permission. Prior coursework in statistics or machine learning is recommended. Students may wish to prepare for their choice of research project by taking EN.601.382 Deep Learning Lab at the same time.
+### Old homeworks (from Spring 2018)
 
-## Requirements (details TBA soon)
+Last year's homework assignments are listed here for reference.  You can expect some similar assignments this year.
 
-* Scribing
+* [Homework 1](https://github.com/seq2class/assignment1): Slow general algorithms for sequence labeling
+* [Homework 2](https://github.com/seq2class/assignment2): Efficient finite-state methods
+* [Homework 3](https://github.com/seq2class/assignment3): Neural models
+
+## Course overview
+
+_Catalog description_: This course surveys formal ingredients that are used to build structured models of character and word sequences. We will unpack recent deep learning architectures that consider various kinds of latent structure, and see how they draw on earlier work in structured prediction, dimensionality reduction, Bayesian nonparametrics, multi-task learning, etc. We will also examine a range of strategies used for inference and learning in these models. Students will be expected to read recent papers and carry out a research project. [Applications or Analysis]
+
+_Prerequisites:_ EN.600/601.465/665 or permission. Prior coursework in statistics or machine learning is recommended. Students may wish to prepare for their choice of research project by taking EN.601.382 Deep Learning Lab at the same time.
+
+_Remarks:_
+* The focus of the class is on understanding the space of *good options* for designing probabilistic sequence models and computing with them.
+* We will discuss the *qualitative* advantages and disadvantages of different options.  Our goal is not to teach you exactly how today's top-ranked system works, but rather to give you a toolbox for understanding and creating system designs.
+* This class builds on the dynamic programming algorithms and log-linear models covered in [NLP](http://cs.jhu.edu/~jason/465).  We will primarily extend to various neural ("log-nonlinear") models, some of which allow dynamic programming.
+* As this is a graduate class, the lecture style will be a bit more improvisational than in [NLP](http://cs.jhu.edu/~jason/465). The class is also still under development. We will probably only cover a subset of the topics on the syllabus.
+
+## Requirements (details TBA)
+
+* Attending lectures
+* Scribing? (i.e., drafting lecture notes)
+* Reading papers?
 * Homeworks
+* Midterm exam?
+* Final exam
 * Final project
-* Tests (midterm and final?)
-* Class participation
-* Reading papers
 
 ## Topic list
 
