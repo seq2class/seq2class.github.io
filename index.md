@@ -1,13 +1,15 @@
 # 601.765 Machine Learning: Linguistic & Sequence Modeling
 
+**Spring 2019**
+
 * **Lectures:** 3-4pm MWF, in Hackerman 320.
   * Sometimes we may have to do 3-4:15 but this will be announced in advance.
-* **Instructors:** Jason Eisner, Ryan Cotterell
+* **Instructor:** Jason Eisner
   * **Office hours:** 4-4:30pm after class, or by appointment.
-* **TA:** Matthew Francis-Landau
-  * **Office hours:** 5:30-6:30pm Monday, Hackerman 306 (Will be on seats outside 321 on 2/5)
+* **TA:** Sebastian Mielke
+  * **Office hours:** TBA
 * **Email:** cs765-staff at cs.jhu.edu
-* **Discussion site:** [https://piazza.com/class/jd0fhovutom2kf](https://piazza.com/class/jd0fhovutom2kf)
+* **Discussion site:** [https://piazza.com/jhu/spring2019/601765/]
 * **Class notes:**
   * [Formalisms and terminology](https://github.com/seq2class/scribe-notes/raw/master/formalisms.pdf)
   * [Scribe Notes](https://seq2class.github.io/scribe-notes/)
