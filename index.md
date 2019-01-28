@@ -76,12 +76,11 @@ _Remarks:_
 <li>Algorithmic background: Paths in graphs</li>
 <li>Classical sequence labeling models</li>
 <li>Graphical models and belief propagation</li>
-<li>Parsing: CFG vs. dependency, graph-based vs. transition-based</li>
 </ol>
 
 ### Richer scoring functions
 
-<ol start="7">
+<ol start="6">
 <li>Beyond dynamic programming: Approximation algorithms</li>
 <li>Feature / architecture engineering</li>
 <li>Neuralization</li>
@@ -93,9 +92,9 @@ _Remarks:_
 
 ### Beyond sequence labeling
 
-<ol start="14">
-<li>Distributions over other discrete structures</li>
-<li>Transition systems for parsing</li>
+<ol start="13">
+<li>Distributions over other discrete structures (trees, proofs)</li>
+<li>Transition systems for transduction and parsing</li>
 <li>Integration over hidden variables</li>
 <li>Reinforcement learning</li>
 <li>Continuous generalizations</li>
@@ -119,7 +118,7 @@ _Remarks:_
 
 ### Other possible topics (time permitting)
 
-<ol start="21">
+<ol start="20">
 <li>Lambek calculus / CCG / automata / other models of grammaticality</li>
 <li>Spectral learning</li>
 <li>Structure learning</li>
