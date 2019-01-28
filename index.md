@@ -1,6 +1,6 @@
 # 601.765 Machine Learning: Linguistic & Sequence Modeling
 
-**Spring 2019**
+## Spring 2019
 
 ## Announcements
 
