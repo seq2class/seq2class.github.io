@@ -29,13 +29,17 @@
 
 ## Homework
 
-Homeworks will be posted here.  We will probably have 4 homeworks (plus a term project).
+We will probably have 4 homeworks (plus a term project).
+Homeworks will be posted here:
+
+* [Homework 1](https://github.com/seq2class/assignment1): Slow general algorithms for sequence labeling
+
+Homeworks are to be submitted on Gradescope, following the Piazza instructions.
 
 ### Old homeworks (from Spring 2018)
 
 Last year's homework assignments are listed here for reference.  You can expect some similar assignments this year.
 
-* [Homework 1](https://github.com/seq2class/assignment1): Slow general algorithms for sequence labeling
 * [Homework 2](https://github.com/seq2class/assignment2): Efficient finite-state methods
 * [Homework 3](https://github.com/seq2class/assignment3): Neural models
 
