@@ -16,7 +16,7 @@
 * **Instructor:** Jason Eisner
   * **Office hours:** 4-4:30pm after class, or by appointment.
 * **TA:** Sebastian Mielke
-  * **Office hours:** TBA
+  * **Office hours:** Friday, 4-5pm, outside Hackerman 321
 * **Email:** cs765-staff at cs.jhu.edu
 * **Discussion site:** [https://piazza.com/jhu/spring2019/601765/](https://piazza.com/jhu/spring2019/601765/)
 * **Class notes:**
