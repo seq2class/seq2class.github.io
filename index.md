@@ -7,8 +7,6 @@
 * The first day of class is Monday, Jan 28.  See you there!
 * Please fill out the [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSelKHO6-6c2funbIIFSnZ8WGzZ_9IT5DeRK_XQEumqwWUYvow/viewform).
 
-<!-- * Homework 1 has been posted [here](https://piazza.com/class/jd0fhovutom2kf?cid=14).  Due 2/19 at 2:00 PM -->
-
 ## Administration
 
 * **Lectures:** 3-4pm MWF, in Hackerman 320.
@@ -33,15 +31,10 @@ We will probably have 4 homeworks (plus a term project).
 Homeworks will be posted here:
 
 * [Homework 1](https://github.com/seq2class/assignment1): Slow general algorithms for sequence labeling
-
-Homeworks are to be submitted on Gradescope, following the Piazza instructions.
-
-### Old homeworks (from Spring 2018)
-
-Last year's homework assignments are listed here for reference.  You can expect some similar assignments this year.
-
 * [Homework 2](https://github.com/seq2class/assignment2): Efficient finite-state methods
 * [Homework 3](https://github.com/seq2class/assignment3): Neural models
+
+Homeworks are to be submitted on Gradescope, following the Piazza instructions.
 
 ## Course overview
 
