@@ -27,12 +27,12 @@
 
 ## Homework
 
-We will probably have 4 homeworks (plus a term project).
-Homeworks will be posted here:
+There are 4 homeworks:
 
 * [Homework 1](https://github.com/seq2class/assignment1): Slow general algorithms for sequence labeling
 * [Homework 2](https://github.com/seq2class/assignment2): Efficient finite-state methods
 * [Homework 3](https://github.com/seq2class/assignment3): Neural models
+* [Homework 4](https://github.com/seq2class/assignment4): A slightly different introduction to Deep Reinforcement Learning
 
 Homeworks are to be submitted on Gradescope, following the Piazza instructions.
 
