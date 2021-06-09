@@ -15,7 +15,7 @@
   * Sometimes we may have to do 3-4:15 but this will be announced in advance.
 * **Instructor:** Jason Eisner
   * **Office hours:** 4-4:30pm after class, or by appointment.
-* **TA:** Sebastian Mielke
+* **TA:** Sabrina Mielke
   * **Office hours:** TBA
 * **Email:** cs765-staff at cs.jhu.edu
 * **Discussion site:** [https://piazza.com/jhu/spring2019/601765/](https://piazza.com/jhu/spring2019/601765/)
@@ -93,7 +93,7 @@ _Remarks:_
 ### Beyond sequence labeling
 
 <ol start="13">
-<li>Distributions over other discrete structures (trees, proofs)</li>
+<li>Distributions over other discrete structures (trees, proofs, program runs)</li>
 <li>Transition systems for transduction and parsing</li>
 <li>Integration over hidden variables</li>
 <li>Reinforcement learning</li>
