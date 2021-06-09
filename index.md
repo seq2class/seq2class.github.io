@@ -7,8 +7,6 @@
 * The first day of class is Monday, Jan 28.  See you there!
 * Please fill out the [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSelKHO6-6c2funbIIFSnZ8WGzZ_9IT5DeRK_XQEumqwWUYvow/viewform).
 
-<!-- * Homework 1 has been posted [here](https://piazza.com/class/jd0fhovutom2kf?cid=14).  Due 2/19 at 2:00 PM -->
-
 ## Administration
 
 * **Lectures:** 3-4pm MWF, in Hackerman 320.
@@ -16,7 +14,7 @@
 * **Instructor:** Jason Eisner
   * **Office hours:** 4-4:30pm after class, or by appointment.
 * **TA:** Sabrina Mielke
-  * **Office hours:** TBA
+  * **Office hours:** Friday, 4-5pm, outside Hackerman 321
 * **Email:** cs765-staff at cs.jhu.edu
 * **Discussion site:** [https://piazza.com/jhu/spring2019/601765/](https://piazza.com/jhu/spring2019/601765/)
 * **Class notes:**
@@ -29,15 +27,14 @@
 
 ## Homework
 
-Homeworks will be posted here.  We will probably have 4 homeworks (plus a term project).
-
-### Old homeworks (from Spring 2018)
-
-Last year's homework assignments are listed here for reference.  You can expect some similar assignments this year.
+There are 4 homeworks:
 
 * [Homework 1](https://github.com/seq2class/assignment1): Slow general algorithms for sequence labeling
 * [Homework 2](https://github.com/seq2class/assignment2): Efficient finite-state methods
 * [Homework 3](https://github.com/seq2class/assignment3): Neural models
+* [Homework 4](https://github.com/seq2class/assignment4): A slightly different introduction to Deep Reinforcement Learning
+
+Homeworks are to be submitted on Gradescope, following the Piazza instructions.
 
 ## Course overview
 
